@@ -5,7 +5,7 @@ Oyuncu, Mars'taki küçük bir araştırma istasyonunda tek başına kalmış bi
 kurtarma ekibi gelene kadar **15 gün** hayatta kalmaya çalışır.
 
 > Algoritma ve Programlama dersi ödevi olarak hazırlanmıştır.
-> Hazırlayan: [Yasin KAYA] - [1260505035]
+> Hazırlayan: Yasin KAYA - 1260505035
 
 ## İçindekiler
 
@@ -31,7 +31,8 @@ kurtarma ekibi gelene kadar **15 gün** hayatta kalmaya çalışır.
 Projeyi bilgisayarına indir:
 
 ```bash
-git clone https://github.com/[yasin-ky]/[mars-koloni-projesi].git
+git clone https://github.com/yasin-ky/mars-koloni-projesi.git
+cd mars-koloni-projesi
 cd [mars-koloni-projesi]
 ```
 
